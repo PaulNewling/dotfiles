@@ -9,6 +9,7 @@ antigen bundle gh
 antigen bundle python
 antigen bundle aws
 antigen bundle command-not-found
+antigen bundle z
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
